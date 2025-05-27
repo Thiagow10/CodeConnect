@@ -26,7 +26,7 @@ Este projeto foi desenvolvido com fins de aprendizado, especialmente para consol
 
 Você pode acessar o projeto online através do link abaixo:
 
-🔗 [Acessar CodeConnect](https://seu-link-deploy.com)
+🔗 [Acessar CodeConnect](https://code-connect-blond-three.vercel.app/)
 
 > O projeto está hospedado para facilitar o acesso e demonstração do funcionamento da página de upload de imagens.
 
