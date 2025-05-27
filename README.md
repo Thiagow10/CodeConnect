@@ -1,3 +1,5 @@
+![Imagem do Projeto](img/screenshot1.png)
+
 # 📸 CodeConnect
 CodeConnect é uma página web desenvolvida com o objetivo de permitir o upload de imagens de forma simples e interativa. O projeto foca principalmente na utilização de JavaScript moderno, com ênfase em Promises e async/await, garantindo uma experiência assíncrona e fluida para o usuário.
 
