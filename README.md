@@ -21,3 +21,12 @@ CodeConnect é uma página web desenvolvida com o objetivo de permitir o upload 
  
 ## 💡 Objetivo do Projeto
 Este projeto foi desenvolvido com fins de aprendizado, especialmente para consolidar conceitos de JavaScript moderno, como **manipulação de promessas** e o uso de **async/await** para operações assíncronas, com um exemplo prático e visual.
+
+## 🌐 Deploy
+
+Você pode acessar o projeto online através do link abaixo:
+
+🔗 [Acessar CodeConnect](https://seu-link-deploy.com)
+
+> O projeto está hospedado para facilitar o acesso e demonstração do funcionamento da página de upload de imagens.
+
